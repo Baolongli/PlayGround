@@ -1,0 +1,13 @@
+C:\Users\BruceLi\Desktop\SampleProject\PlayGround.Pattern\PlayGround.Pattern\bin\Debug\netcoreapp3.1\PlayGround.Pattern.exe
+C:\Users\BruceLi\Desktop\SampleProject\PlayGround.Pattern\PlayGround.Pattern\bin\Debug\netcoreapp3.1\PlayGround.Pattern.deps.json
+C:\Users\BruceLi\Desktop\SampleProject\PlayGround.Pattern\PlayGround.Pattern\bin\Debug\netcoreapp3.1\PlayGround.Pattern.runtimeconfig.json
+C:\Users\BruceLi\Desktop\SampleProject\PlayGround.Pattern\PlayGround.Pattern\bin\Debug\netcoreapp3.1\PlayGround.Pattern.runtimeconfig.dev.json
+C:\Users\BruceLi\Desktop\SampleProject\PlayGround.Pattern\PlayGround.Pattern\bin\Debug\netcoreapp3.1\PlayGround.Pattern.dll
+C:\Users\BruceLi\Desktop\SampleProject\PlayGround.Pattern\PlayGround.Pattern\bin\Debug\netcoreapp3.1\PlayGround.Pattern.pdb
+C:\Users\BruceLi\Desktop\SampleProject\PlayGround.Pattern\PlayGround.Pattern\obj\Debug\netcoreapp3.1\PlayGround.Pattern.csprojAssemblyReference.cache
+C:\Users\BruceLi\Desktop\SampleProject\PlayGround.Pattern\PlayGround.Pattern\obj\Debug\netcoreapp3.1\PlayGround.Pattern.csproj.CoreCompileInputs.cache
+C:\Users\BruceLi\Desktop\SampleProject\PlayGround.Pattern\PlayGround.Pattern\obj\Debug\netcoreapp3.1\PlayGround.Pattern.AssemblyInfoInputs.cache
+C:\Users\BruceLi\Desktop\SampleProject\PlayGround.Pattern\PlayGround.Pattern\obj\Debug\netcoreapp3.1\PlayGround.Pattern.AssemblyInfo.cs
+C:\Users\BruceLi\Desktop\SampleProject\PlayGround.Pattern\PlayGround.Pattern\obj\Debug\netcoreapp3.1\PlayGround.Pattern.dll
+C:\Users\BruceLi\Desktop\SampleProject\PlayGround.Pattern\PlayGround.Pattern\obj\Debug\netcoreapp3.1\PlayGround.Pattern.pdb
+C:\Users\BruceLi\Desktop\SampleProject\PlayGround.Pattern\PlayGround.Pattern\obj\Debug\netcoreapp3.1\PlayGround.Pattern.genruntimeconfig.cache
